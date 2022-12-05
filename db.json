@@ -5,27 +5,27 @@
       "name": "hello",
       "age": 3
     },
-     {
+    {
       "id": 2,
       "name": "Cho 2",
       "age": 4
     },
-     {
+    {
       "id": 3,
       "name": "Cho 3",
       "age": 4
     },
-     {
+    {
       "id": 4,
       "name": "Cho 4",
       "age": 5
     },
-     {
+    {
       "id": 5,
       "name": "Cho 5",
       "age": 0
     },
-     {
+    {
       "id": 6,
       "name": "Cho 6",
       "age": 10
@@ -34,11 +34,11 @@
       "id": 7,
       "name": "Cho 7",
       "age": 9
-    }, 
+    },
     {
       "id": 8,
       "name": "Cho 8",
       "age": 11
-    },
-  ],
+    }
+  ]
 }
